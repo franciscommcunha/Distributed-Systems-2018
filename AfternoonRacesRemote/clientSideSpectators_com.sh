@@ -1,0 +1,1 @@
+java -cp .. AfternoonRacesRemote.Entities.Spectators.SpectatorClient $1 $2
